@@ -49,6 +49,9 @@
 # From: rakuten@inversenet.co.jp
 # http://t.messages.lifepointspanel.com/r/?id=h11c019f,317ba4e,317ba50&p1=q-u9.us?e=billals@xenith.co.uk&acceptLang=en-AU&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsidGVzdGp3dHJlc291cmNlaWQiXSwiY29kZSI6Njg2LCJ1c2VyX25hbWUiOiJqb0BzdXByZW1lcGl6emEuY29tLmF1Iiwic2NvcGUiOlsicmVhZCwiLCJ0cnVzdCIsIndyaXRlLCJdLCJvcmdhbml6YXRpb24iOiJLYW50YXIiLCJpZCI6ImpvQHN1cHJlbWVwaXp6YS5jb20uYXUiLCJleHAiOjE1ODIxODMwNDgsImF1dGhvcml0aWVzIjpbIlJPTEVfSU5JVCJdLCJqdGkiOiI0NTFlNGNiYi01MzZmLTRjYjItOTkzNS03NDA0OTc1ODNlNjMiLCJjbGllbnRfaWQiOiJyaWxwbGF0b25lY2xpZW50cHJvZCJ9.BuZmALP3kvpIRwBBghe-CT6BxoyaRXZPKM9VOa0ymoA -> https://q-u9.us/main/
 0.0.0.0 inversenet.co.jp
+0.0.0.0 www.inversenet.co.jp
 0.0.0.0 t.messages.lifepointspanel.com
+0.0.0.0 www.t.messages.lifepointspanel.com
 0.0.0.0 q-u9.us
+0.0.0.0 www.q-u9.us
 ####################################################################################################
