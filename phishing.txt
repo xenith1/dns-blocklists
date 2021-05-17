@@ -1,21 +1,37 @@
 0.0.0.0 drakovexlogz.xyz
+0.0.0.0 www.drakovexlogz.xyz
 0.0.0.0 0nedrive.0fficee.info
+0.0.0.0 www.0nedrive.0fficee.info
 0.0.0.0 bellflowers.ru.com
+0.0.0.0 www.bellflowers.ru.com
 0.0.0.0 xenith.co.uk.oprqzx.com
+0.0.0.0 www.xenith.co.uk.oprqzx.com
 0.0.0.0 kalliejoy.com
+0.0.0.0 www.kalliejoy.com
 0.0.0.0 djbingproductions.com
+0.0.0.0 www.djbingproductions.com
 0.0.0.0 naoclengzqrwhyqnllvw.kdhdjd.com
+0.0.0.0 www.naoclengzqrwhyqnllvw.kdhdjd.com
 0.0.0.0 myvoicemail.mysharedfileportal1.xyz
+0.0.0.0 www.myvoicemail.mysharedfileportal1.xyz
 0.0.0.0 etex.net
+0.0.0.0 www.etex.net
 0.0.0.0 arairod.in.th
+0.0.0.0 www.arairod.in.th
 0.0.0.0 online.hmrevenue.co.uk.vbdfjqwequdfhdweew.life
+0.0.0.0 www.online.hmrevenue.co.uk.vbdfjqwequdfhdweew.life
 0.0.0.0 t.hungryhorse.co.uk
+0.0.0.0 www.t.hungryhorse.co.uk
 0.0.0.0 kd-s.shop
+0.0.0.0 www.kd-s.shop
 0.0.0.0 ktzvindersdorf.de
+0.0.0.0 www.ktzvindersdorf.de
 0.0.0.0 fwdssp.com
-0.0.0.0 www.smpn1deket.sch.id
+0.0.0.0 www.fwdssp.com
 0.0.0.0 smpn1deket.sch.id
+0.0.0.0 www.smpn1deket.sch.id
 0.0.0.0 goplz365.transmartins.com.br
+0.0.0.0 www.goplz365.transmartins.com.br
 0.0.0.0 maculaandretinainstitute.com
 0.0.0.0 www.maculaandretinainstitute.com
 0.0.0.0 dot-tribe.com
@@ -31,9 +47,13 @@
 0.0.0.0 logo.uplead.com
 0.0.0.0 www.logo.uplead.com
 0.0.0.0 oceanunderwater.ru
+0.0.0.0 www.oceanunderwater.ru
 0.0.0.0 foodfordinner.ru
+0.0.0.0 www.foodfordinner.ru
 0.0.0.0 aeviapress.org
+0.0.0.0 www.aeviapress.org
 0.0.0.0 julrdr.com
+0.0.0.0 www.julrdr.com
 ####################################################################################################
 # 2021-05-10
 # From: orders@qualitops.co.uk
@@ -54,4 +74,12 @@
 0.0.0.0 www.t.messages.lifepointspanel.com
 0.0.0.0 q-u9.us
 0.0.0.0 www.q-u9.us
+# From: bkirkman@nuserve.co.uk -> Marc.Ueckermann@xenith.co.uk
+# Not flagged by Office365
+# Link goes to company's proprietary hosting platform
+# https://www.notion.so/NuServe-654df1d32be846b581cc2d35a2c83881
+0.0.0.0 notion.so
+0.0.0.0 www.notion.so
+0.0.0.0 rheabypassuit.buzz
+0.0.0.0 www.rheabypassuit.buzz
 ####################################################################################################
