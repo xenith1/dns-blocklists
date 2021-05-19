@@ -85,7 +85,7 @@
 ####################################################################################################
 # 2021-05-19
 # From: com@emines.co.za
-# http://up.rev.ref.qnqshp.stylite.pk/.rty/.sdf/?qNQSHp
+# http://up.rev.ref.qnqshp.stylite.pk/.rty/.sdf/?qNQSHp -> https://peira.gov.pk/wp-includes/css/.asd/.sdf/?sessionid=dc3a8bac4022be0b86cafcfc95fbeca9&securessl=true
 0.0.0.0 emines.co.za
 0.0.0.0 www.emines.co.za
 0.0.0.0 up.rev.ref.qnqshp.stylite.pk
