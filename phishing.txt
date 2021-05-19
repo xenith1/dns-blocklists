@@ -83,3 +83,13 @@
 0.0.0.0 rheabypassuit.buzz
 0.0.0.0 www.rheabypassuit.buzz
 ####################################################################################################
+# 2021-05-19
+# From: com@emines.co.za
+# http://up.rev.ref.qnqshp.stylite.pk/.rty/.sdf/?qNQSHp
+0.0.0.0 emines.co.za
+0.0.0.0 www.emines.co.za
+0.0.0.0 up.rev.ref.qnqshp.stylite.pk
+0.0.0.0 www.up.rev.ref.qnqshp.stylite.pk
+0.0.0.0 peira.gov.pk
+0.0.0.0 www.peira.gov.pk
+####################################################################################################
