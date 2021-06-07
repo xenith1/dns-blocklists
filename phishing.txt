@@ -74,7 +74,7 @@
 0.0.0.0 www.t.messages.lifepointspanel.com
 0.0.0.0 q-u9.us
 0.0.0.0 www.q-u9.us
-# From: bkirkman@nuserve.co.uk -> Marc.Ueckermann@xenith.co.uk
+# From: bkirkman@nuserve.co.uk
 # Not flagged by Office365
 # Link goes to company's proprietary hosting platform
 # https://www.notion.so/NuServe-654df1d32be846b581cc2d35a2c83881
