@@ -104,4 +104,5 @@
 # Url: http://scotth.officevoicemessagelisten.com/#c2NvdHRoQHhlbml0aC5jby51aw==#aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==#c2NvdHRoQHhlbml0aC5jby51aw==
 0.0.0.0 officevoicemessagelisten.com
 0.0.0.0 offcevoicemessage465-packmesssageaudiolisten-bucketvoicemessage.s3.eu-de.cloud-object-storage.appdomain.cloud
+0.0.0.0 hakore.co.jp
 ####################################################################################################
