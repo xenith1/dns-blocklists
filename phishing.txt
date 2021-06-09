@@ -106,3 +106,15 @@
 0.0.0.0 offcevoicemessage465-packmesssageaudiolisten-bucketvoicemessage.s3.eu-de.cloud-object-storage.appdomain.cloud
 0.0.0.0 hakore.co.jp
 ####################################################################################################
+# 2021-06-09
+# From: carol@carolcriner.com
+# Url: https://loits.gator.site/
+0.0.0.0 loits.gator.site
+0.0.0.0 www.loits.gator.site
+0.0.0.0 www.hostgator.com
+0.0.0.0 hostgator.com
+0.0.0.0 diez4.com
+0.0.0.0 www.diez4.com
+0.0.0.0 jsonip.com
+0.0.0.0 www.jsonip.com
+####################################################################################################
