@@ -118,3 +118,13 @@
 0.0.0.0 jsonip.com
 0.0.0.0 www.jsonip.com
 ####################################################################################################
+# 2021-06-14
+# From: pburns@canadiangaming.ca
+# Url: http://marc.ueckermann.buyland4less.com/vrt/marc.ueckermann@xenith.co.uk
+0.0.0.0 buyland4less.com
+0.0.0.0 canadiangaming.ca
+# From: updates-o2@limited-billing.co.uk
+# Url: https://rplg.co/form-web
+0.0.0.0 rplg.co
+0.0.0.0 limited-billing.co.uk
+####################################################################################################
