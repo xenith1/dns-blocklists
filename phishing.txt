@@ -132,3 +132,17 @@
 0.0.0.0 limited-billing.co.uk
 0.0.0.0 www.limited-billing.co.uk
 ####################################################################################################
+# 2021-06-16
+# From: machiko@vanca.com
+# Url: https://meet.google.com/linkredirect?dest=http://8821382.golddaltoncarspetone.com/#anVzdGluLm1pbGxpZ2FuQHhlbml0aC5jby51aw==
+0.0.0.0 golddaltoncarspetone.com
+0.0.0.0 www.golddaltoncarspetone.com
+0.0.0.0 vanca.com
+0.0.0.0 www.vanca.com
+# From: 
+# Url: https://meet.google.com/linkredirect?dest=http://8201949.jamehusocapt.com/#anVzdGluLm1pbGxpZ2FuQHhlbml0aC5jby51aw==
+0.0.0.0 jamehusocapt.com
+0.0.0.0 www.jamehusocapt.com
+0.0.0.0 levia-jp.com
+0.0.0.0 www.levia-jp.com
+####################################################################################################
