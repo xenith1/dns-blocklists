@@ -139,7 +139,7 @@
 0.0.0.0 www.golddaltoncarspetone.com
 0.0.0.0 vanca.com
 0.0.0.0 www.vanca.com
-# From: 
+# From: yamasaki@levia-jp.com
 # Url: https://meet.google.com/linkredirect?dest=http://8201949.jamehusocapt.com/#anVzdGluLm1pbGxpZ2FuQHhlbml0aC5jby51aw==
 0.0.0.0 jamehusocapt.com
 0.0.0.0 www.jamehusocapt.com
