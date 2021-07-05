@@ -156,3 +156,15 @@
 0.0.0.0 students.audit.gov.ly
 0.0.0.0 www.students.audit.gov.ly
 ####################################################################################################
+# 2021-06-05
+# From: kketchum@telus.net
+# Url: https://meet.google.com/linkredirect?dest=https://kf0tn.csb.app/?dg=billals@xenith.co.uk
+0.0.0.0 kf0tn.csb.app
+0.0.0.0 www.kf0tn.csb.app
+0.0.0.0 jhyf8azl83jaxnaq.w3spaces.com
+0.0.0.0 www.jhyf8azl83jaxnaq.w3spaces.com
+0.0.0.0 telus.net
+0.0.0.0 www.telus.net
+0.0.0.0 ptkoaman.com
+0.0.0.0 www.ptkoaman.com
+####################################################################################################
