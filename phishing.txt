@@ -146,3 +146,13 @@
 0.0.0.0 levia-jp.com
 0.0.0.0 www.levia-jp.com
 ####################################################################################################
+# 2021-06-25
+# From: do-not-reply@assessandconstruct.com.au
+# Url: https://ap8237.editorx.io/bigthingscables
+0.0.0.0 ap8237.editorx.io
+0.0.0.0 www.ap8237.editorx.io
+0.0.0.0 assessandconstruct.com.au
+0.0.0.0 www.assessandconstruct.com.au
+0.0.0.0 students.audit.gov.ly
+0.0.0.0 www.students.audit.gov.ly
+####################################################################################################
