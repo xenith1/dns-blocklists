@@ -168,3 +168,15 @@
 0.0.0.0 ptkoaman.com
 0.0.0.0 www.ptkoaman.com
 ####################################################################################################
+# 2021-06-05
+# From: saiqa@applocum.com
+# Url: https://lp.vp4.me/ppmh
+0.0.0.0 lp.vp4.me
+0.0.0.0 www.lp.vp4.me
+0.0.0.0 pjq09k.z6.web.core.windows.net
+0.0.0.0 www.pjq09k.z6.web.core.windows.net
+0.0.0.0 horizonsforstudy.com
+0.0.0.0 www.horizonsforstudy.com
+0.0.0.0 applocum.com
+0.0.0.0 www.applocum.com
+####################################################################################################
