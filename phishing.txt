@@ -57,7 +57,7 @@
 ####################################################################################################
 # 2021-05-10
 # From: orders@qualitops.co.uk
-# https://pg-finacesolutions.co.uk/ -> https://kmaxleather.com/verify/captcha.htm 
+# https://pg-finacesolutions.co.uk/
 0.0.0.0 pg-finacesolutions.co.uk
 0.0.0.0 www.pg-finacesolutions.co.uk
 0.0.0.0 kmaxleather.com
@@ -67,7 +67,7 @@
 ####################################################################################################
 # 2021-05-17
 # From: rakuten@inversenet.co.jp
-# http://t.messages.lifepointspanel.com/r/?id=h11c019f,317ba4e,317ba50&p1=q-u9.us?e=billals@xenith.co.uk&acceptLang=en-AU&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsidGVzdGp3dHJlc291cmNlaWQiXSwiY29kZSI6Njg2LCJ1c2VyX25hbWUiOiJqb0BzdXByZW1lcGl6emEuY29tLmF1Iiwic2NvcGUiOlsicmVhZCwiLCJ0cnVzdCIsIndyaXRlLCJdLCJvcmdhbml6YXRpb24iOiJLYW50YXIiLCJpZCI6ImpvQHN1cHJlbWVwaXp6YS5jb20uYXUiLCJleHAiOjE1ODIxODMwNDgsImF1dGhvcml0aWVzIjpbIlJPTEVfSU5JVCJdLCJqdGkiOiI0NTFlNGNiYi01MzZmLTRjYjItOTkzNS03NDA0OTc1ODNlNjMiLCJjbGllbnRfaWQiOiJyaWxwbGF0b25lY2xpZW50cHJvZCJ9.BuZmALP3kvpIRwBBghe-CT6BxoyaRXZPKM9VOa0ymoA -> https://q-u9.us/main/
+# http://t.messages.lifepointspanel.com/r/?id=h11c019f,317ba4e,317ba50&p1=q-u9.us?e=billals@xenith.co.uk&acceptLang=en-AU&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsidGVzdGp3dHJlc291cmNlaWQiXSwiY29kZSI6Njg2LCJ1c2VyX25hbWUiOiJqb0BzdXByZW1lcGl6emEuY29tLmF1Iiwic2NvcGUiOlsicmVhZCwiLCJ0cnVzdCIsIndyaXRlLCJdLCJvcmdhbml6YXRpb24iOiJLYW50YXIiLCJpZCI6ImpvQHN1cHJlbWVwaXp6YS5jb20uYXUiLCJleHAiOjE1ODIxODMwNDgsImF1dGhvcml0aWVzIjpbIlJPTEVfSU5JVCJdLCJqdGkiOiI0NTFlNGNiYi01MzZmLTRjYjItOTkzNS03NDA0OTc1ODNlNjMiLCJjbGllbnRfaWQiOiJyaWxwbGF0b25lY2xpZW50cHJvZCJ9.BuZmALP3kvpIRwBBghe-CT6BxoyaRXZPKM9VOa0ymoA
 0.0.0.0 inversenet.co.jp
 0.0.0.0 www.inversenet.co.jp
 0.0.0.0 t.messages.lifepointspanel.com
@@ -85,7 +85,7 @@
 ####################################################################################################
 # 2021-05-19
 # From: com@emines.co.za
-# http://up.rev.ref.qnqshp.stylite.pk/.rty/.sdf/?qNQSHp -> https://peira.gov.pk/wp-includes/css/.asd/.sdf/?sessionid=dc3a8bac4022be0b86cafcfc95fbeca9&securessl=true
+# http://up.rev.ref.qnqshp.stylite.pk/.rty/.sdf/?qNQSHp
 0.0.0.0 emines.co.za
 0.0.0.0 www.emines.co.za
 0.0.0.0 up.rev.ref.qnqshp.stylite.pk
