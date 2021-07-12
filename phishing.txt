@@ -156,7 +156,7 @@
 0.0.0.0 students.audit.gov.ly
 0.0.0.0 www.students.audit.gov.ly
 ####################################################################################################
-# 2021-06-05
+# 2021-07-05
 # From: kketchum@telus.net
 # Url: https://meet.google.com/linkredirect?dest=https://kf0tn.csb.app/?dg=billals@xenith.co.uk
 0.0.0.0 kf0tn.csb.app
@@ -168,7 +168,7 @@
 0.0.0.0 ptkoaman.com
 0.0.0.0 www.ptkoaman.com
 ####################################################################################################
-# 2021-06-05
+# 2021-07-05
 # From: saiqa@applocum.com
 # Url: https://lp.vp4.me/ppmh
 0.0.0.0 lp.vp4.me
@@ -179,4 +179,10 @@
 0.0.0.0 www.horizonsforstudy.com
 0.0.0.0 applocum.com
 0.0.0.0 www.applocum.com
+####################################################################################################
+# 2021-07-10
+# From: compass@compass.email
+# Url: http://www.bigbluecenter.com/dsdsds54we4wewew//
+0.0.0.0 bigbluecenter.com
+0.0.0.0 www.bigbluecenter.com
 ####################################################################################################
