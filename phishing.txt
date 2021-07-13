@@ -186,3 +186,21 @@
 0.0.0.0 bigbluecenter.com
 0.0.0.0 www.bigbluecenter.com
 ####################################################################################################
+# 2021-07-13
+# Found in a WSHRAT analysis
+# Url: https://www.youtube.com/watch?v=XDAiS6KBDOs
+0.0.0.0 trabajovalle2022.duckdns.org
+0.0.0.0 www.trabajovalle2022.duckdns.org
+0.0.0.0 galakhov.duckdns.org
+0.0.0.0 www.galakhov.duckdns.org
+0.0.0.0 motwani.duckdns.org
+0.0.0.0 www.motwani.duckdns.org
+0.0.0.0 ijehawele.duckdns.org
+0.0.0.0 www.ijehawele.duckdns.org
+0.0.0.0 dbin240.ddns.net
+0.0.0.0 www.dbin240.ddns.net
+0.0.0.0 unknownsoft.duckdns.org
+0.0.0.0 www.unknownsoft.duckdns.org
+0.0.0.0 mxrecords9688.bounceme.net
+0.0.0.0 www.mxrecords9688.bounceme.net
+####################################################################################################
