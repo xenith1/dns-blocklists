@@ -204,3 +204,30 @@
 0.0.0.0 mxrecords9688.bounceme.net
 0.0.0.0 www.mxrecords9688.bounceme.net
 ####################################################################################################
+# 2021-07-23
+# Found in malware analysis
+0.0.0.0 titko.wancdnapp.page
+0.0.0.0 www.titko.wancdnapp.page
+0.0.0.0 manaapdpemtri.firebaseapp.com
+0.0.0.0 www.manaapdpemtri.firebaseapp.com
+0.0.0.0 tkobkzixuvga8d9zoxid.us-south.cf.appdomain.cloud
+0.0.0.0 www.tkobkzixuvga8d9zoxid.us-south.cf.appdomain.cloud
+0.0.0.0 kifot.wancdnapp.page
+0.0.0.0 www.kifot.wancdnapp.page
+0.0.0.0 nypu.us
+0.0.0.0 www.nypu.us
+0.0.0.0 f-or.online
+0.0.0.0 www.f-or.online
+0.0.0.0 www.hoshi-design.jp
+0.0.0.0 hoshi-design.jp
+0.0.0.0 www.gonnokoki.co.jp
+0.0.0.0 gonnokoki.co.jp
+0.0.0.0 voicemessage-secur.ddns.net
+0.0.0.0 www.voicemessage-secur.ddns.net
+0.0.0.0 pbformonline.com
+0.0.0.0 www.pbformonline.com
+0.0.0.0 ix-a.online
+0.0.0.0 www.ix-a.online
+0.0.0.0 idea-net.co.jp
+0.0.0.0 www.idea-net.co.jp
+####################################################################################################
