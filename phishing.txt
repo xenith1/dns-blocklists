@@ -242,4 +242,8 @@
 0.0.0.0 www.tajricommunication.com
 0.0.0.0 cdn.clipart.email
 0.0.0.0 www.cdn.clipart.email
+# Reported by CLIENT RELATIONSHIP MANAGER:
+# Url: https://coisasdedivapro.site/wp-content/themes/excel-rd42/
+0.0.0.0 coisasdedivapro.site
+0.0.0.0 www.coisasdedivapro.site
 ####################################################################################################
