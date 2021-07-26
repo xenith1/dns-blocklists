@@ -231,3 +231,15 @@
 0.0.0.0 idea-net.co.jp
 0.0.0.0 www.idea-net.co.jp
 ####################################################################################################
+# 2021-07-26
+# From: hello@trippal.ai
+# Url: http://v2828p.jeelani-ent.com.pk/v2828p#cooperative-training.lk/bio/gu/YWNjb3VudHMucGF5YWJsZUB4ZW5pdGguY28udWs=
+0.0.0.0 trippal.ai
+0.0.0.0 www.trippal.ai
+0.0.0.0 v2828p.jeelani-ent.com.pk
+0.0.0.0 www.v2828p.jeelani-ent.com.pk
+0.0.0.0 tajricommunication.com
+0.0.0.0 www.tajricommunication.com
+0.0.0.0 cdn.clipart.email
+0.0.0.0 www.cdn.clipart.email
+####################################################################################################
