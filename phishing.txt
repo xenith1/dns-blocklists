@@ -247,3 +247,13 @@
 0.0.0.0 coisasdedivapro.site
 0.0.0.0 www.coisasdedivapro.site
 ####################################################################################################
+# 2021-07-27
+# From: info@au.wakwak.com
+# Url: http://www.vrvavs.mtdesign.hu/#fabiaent.com/bio/12/YWNjb3VudHMucGF5YWJsZUB4ZW5pdGguY28udWs=
+0.0.0.0 www.vrvavs.mtdesign.hu
+0.0.0.0 vrvavs.mtdesign.hu
+0.0.0.0 wakwak.com
+0.0.0.0 www.wakwak.com
+0.0.0.0 au.wakwak.com
+0.0.0.0 www.au.wakwak.com
+####################################################################################################
