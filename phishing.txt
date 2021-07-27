@@ -256,4 +256,14 @@
 0.0.0.0 www.wakwak.com
 0.0.0.0 au.wakwak.com
 0.0.0.0 www.au.wakwak.com
+# From: eric.keane@ifsl.uk.com
+# Url: http://my-doc-u.com/confidential-document/
+0.0.0.0 ifsl.uk.com
+0.0.0.0 www.ifsl.uk.com
+0.0.0.0 my-doc-u.com
+0.0.0.0 www.my-doc-u.com
+0.0.0.0 ibmbucket7060.s3.jp-osa.cloud-object-storage.appdomain.cloud
+0.0.0.0 www.ibmbucket7060.s3.jp-osa.cloud-object-storage.appdomain.cloud
+0.0.0.0 ses-smtp.com
+0.0.0.0 www.ses-smtp.com
 ####################################################################################################
