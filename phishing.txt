@@ -267,3 +267,13 @@
 0.0.0.0 ses-smtp.com
 0.0.0.0 www.ses-smtp.com
 ####################################################################################################
+# 2021-08-11
+# From: inbloundfaxmessage@theplayersnyc.org
+# Url: https://elink.io/p/3239941102-9117ced
+0.0.0.0 theplayersnyc.org
+0.0.0.0 www.theplayersnyc.org
+0.0.0.0 elink.io
+0.0.0.0 www.elink.io
+0.0.0.0 cerebral-palsy-lawyer-new-york.com
+0.0.0.0 www.cerebral-palsy-lawyer-new-york.com
+####################################################################################################
