@@ -277,3 +277,9 @@
 0.0.0.0 cerebral-palsy-lawyer-new-york.com
 0.0.0.0 www.cerebral-palsy-lawyer-new-york.com
 ####################################################################################################
+# 2021-08-20
+# From: <>
+# Url: https://mcces.com.pk/missedCALL/?email=stuart.cassidy@xenith.co.uk
+0.0.0.0 mcces.com.pk
+0.0.0.0 www.mcces.com.pk
+####################################################################################################
