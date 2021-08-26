@@ -288,3 +288,9 @@
 0.0.0.0 www.hurleyauctions.us
 0.0.0.0 hurleyauctions.us
 ####################################################################################################
+# 2021-08-26
+# From: <>
+# Url: https://descontosevantagens.com/office365mail/BLUE/?email=Stuart.Cassidy@xenith.co.uk
+0.0.0.0 descontosevantagens.com
+0.0.0.0 www.descontosevantagens.com
+####################################################################################################
