@@ -294,3 +294,11 @@
 0.0.0.0 descontosevantagens.com
 0.0.0.0 www.descontosevantagens.com
 ####################################################################################################
+# 2021-08-30
+# From: dgustafson@allpointstech.com
+# HTML attachment
+0.0.0.0 pmsgen.co.in
+0.0.0.0 www.pmsgen.co.in
+0.0.0.0 allpointstech.com
+0.0.0.0 www.allpointstech.com
+####################################################################################################
