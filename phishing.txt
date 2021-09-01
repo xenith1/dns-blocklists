@@ -302,3 +302,9 @@
 0.0.0.0 allpointstech.com
 0.0.0.0 www.allpointstech.com
 ####################################################################################################
+# 2021-09-01
+# From: newsletter@eurobrussels.com
+# Url: https://s1tz.mjt.lu/unsub2?m=AMoAAK3ob2wAAcpW4hAAAGq3V3UAAJ51lHgACIJ5AAFMSABhLdAd5UOWg0QxQCuk-R48b0pAJQABPgw&b=0cde05c0&e=234266f8&x=d1bmCWFuPxvZGqjfnTJSoA2GdKUuQblBWM4YKZo4K20
+0.0.0.0 s1tz.mjt.lu
+0.0.0.0 www.s1tz.mjt.lu
+####################################################################################################
