@@ -308,3 +308,11 @@
 0.0.0.0 s1tz.mjt.lu
 0.0.0.0 www.s1tz.mjt.lu
 ####################################################################################################
+# 2021-09-02
+# From: info@newsletters.cbc.ca
+# Url: g-force.com.tw/to/redacted@xenith.co.uk
+0.0.0.0 g-force.com.tw
+0.0.0.0 www.g-force.com.tw
+0.0.0.0 newsletters.cbc.ca
+0.0.0.0 www.newsletters.cbc.ca
+####################################################################################################
