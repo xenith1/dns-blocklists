@@ -316,3 +316,12 @@
 0.0.0.0 newsletters.cbc.ca
 0.0.0.0 www.newsletters.cbc.ca
 ####################################################################################################
+# 2021-09-08
+# Submitted from user
+# HTML attachment
+# Url: https://fanjattp.fabieng.net/submit.php
+0.0.0.0 fanjattp.fabieng.net
+0.0.0.0 www.fanjattp.fabieng.net
+0.0.0.0 fabieng.net
+0.0.0.0 www.fabieng.net
+####################################################################################################
