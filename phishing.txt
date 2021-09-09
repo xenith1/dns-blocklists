@@ -338,6 +338,8 @@
 0.0.0.0 www.truth-granite-baron.glitch.me
 0.0.0.0 glitch.me
 0.0.0.0 www.glitch.me
+0.0.0.0 griffithweb.net
+0.0.0.0 www.griffithweb.net
 ########################################### same campaign ##########################################
 # From: sonya@remlandinsurance.com
 # Url: http://f.gtsm.empmenudigital.pt/.ZW1pbHloQHhlbml0aC5jby51aw==%20
@@ -345,4 +347,6 @@
 0.0.0.0 www.f.gtsm.empmenudigital.pt
 0.0.0.0 gtsm.empmenudigital.pt
 0.0.0.0 www.gtsm.empmenudigital.pt
+0.0.0.0 remlandinsurance.com
+0.0.0.0 www.remlandinsurance.com
 ####################################################################################################
