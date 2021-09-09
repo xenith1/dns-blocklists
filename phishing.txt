@@ -325,3 +325,24 @@
 0.0.0.0 fabieng.net
 0.0.0.0 www.fabieng.net
 ####################################################################################################
+# 2021-09-09
+# From: davidg@griffithweb.net
+# Url: http://p.8wvn.empmenudigital.pt/.c3R1YXJ0Y0B4ZW5pdGguY28udWs=%20#aHR0cHM6Ly90cnV0aC1ncmFuaXRlLWJhcm9uLmdsaXRjaC5tZS83NmsuaHRtbCNzdHVhcnRjQHhlbml0aC5jby51aw==
+0.0.0.0 p.8wvn.empmenudigital.pt
+0.0.0.0 www.p.8wvn.empmenudigital.pt
+0.0.0.0 8wvn.empmenudigital.pt
+0.0.0.0 www.8wvn.empmenudigital.pt
+0.0.0.0 empmenudigital.pt
+0.0.0.0 www.empmenudigital.pt
+0.0.0.0 truth-granite-baron.glitch.me
+0.0.0.0 www.truth-granite-baron.glitch.me
+0.0.0.0 glitch.me
+0.0.0.0 www.glitch.me
+########################################### same campaign ##########################################
+# From: sonya@remlandinsurance.com
+# Url: http://f.gtsm.empmenudigital.pt/.ZW1pbHloQHhlbml0aC5jby51aw==%20
+0.0.0.0 f.gtsm.empmenudigital.pt
+0.0.0.0 www.f.gtsm.empmenudigital.pt
+0.0.0.0 gtsm.empmenudigital.pt
+0.0.0.0 www.gtsm.empmenudigital.pt
+####################################################################################################
