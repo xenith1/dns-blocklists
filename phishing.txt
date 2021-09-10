@@ -350,3 +350,11 @@
 0.0.0.0 remlandinsurance.com
 0.0.0.0 www.remlandinsurance.com
 ####################################################################################################
+# 2021-09-10
+# From: norreply@askkindlynows.com
+# Url: https://4518cbbd17f643fcbfc4aaf2f3e73804.svc.dynamics.com/t/t/9TJ8X24n3bVtbirMwUqp61zxTzYW9GZLegabEQxI33Mx/lCTHG9P5i5WSOChfdDjMZLD7j11HjMBevohsoKNZ0w0x?p0=redacted@xenith.co.uk
+0.0.0.0 4518cbbd17f643fcbfc4aaf2f3e73804.svc.dynamics.com
+0.0.0.0 www.4518cbbd17f643fcbfc4aaf2f3e73804.svc.dynamics.com
+0.0.0.0 askkindlynows.com
+0.0.0.0 www.askkindlynows.com
+####################################################################################################
