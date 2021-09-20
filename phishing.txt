@@ -361,3 +361,16 @@
 0.0.0.0 flatearth101.com
 0.0.0.0 www.flatearth101.com
 ####################################################################################################
+# 2021-09-20
+# User Submitted
+0.0.0.0 hiopas.com
+0.0.0.0 www.hiopas.com
+0.0.0.0 e5.valueserver.jp
+0.0.0.0 www.e5.valueserver.jp
+# From:
+# Url: https://b9203ec708984103a5619ad9a284d620.svc.dynamics.com/t/t/pyOYIxxQ36w3lwGhsa6rI1cxW2Jj4AIz9x9GbtCJGm0x/TCiFmOw4HFcSulxRm8PUCxVXBqPfCHMDKMqjv933NbEx?p0=redacted@xenith.co.uk
+0.0.0.0 b9203ec708984103a5619ad9a284d620.svc.dynamics.com
+0.0.0.0 www.b9203ec708984103a5619ad9a284d620.svc.dynamics.com
+0.0.0.0 investmpmoplus.com
+0.0.0.0 www.investmpmoplus.com
+####################################################################################################
