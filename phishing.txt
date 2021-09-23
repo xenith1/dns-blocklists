@@ -374,3 +374,11 @@
 0.0.0.0 investmpmoplus.com
 0.0.0.0 www.investmpmoplus.com
 ####################################################################################################
+# 2021-09-23
+# Malware analysis
+# Source: https://youtu.be/ElqmQDySy48
+0.0.0.0 rick63.publicvm.com
+0.0.0.0 www.rick63.publicvm.com
+0.0.0.0 publicvm.com
+0.0.0.0 www.publicvm.com
+####################################################################################################
