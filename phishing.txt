@@ -389,3 +389,12 @@
 0.0.0.0 akapon.kanritools.com
 0.0.0.0 www.akapon.kanritools.com
 ####################################################################################################
+# 2021-10-06
+# Found in a attachment
+0.0.0.0 musk.btcdonatver.site
+0.0.0.0 www.musk.btcdonatver.site
+0.0.0.0 dnt.btcdonatver.site
+0.0.0.0 www.dnt.btcdonatver.site
+0.0.0.0 btcdonatver.site
+0.0.0.0 www.btcdonatver.site
+####################################################################################################
