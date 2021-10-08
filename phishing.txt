@@ -398,3 +398,28 @@
 0.0.0.0 btcdonatver.site
 0.0.0.0 www.btcdonatver.site
 ####################################################################################################
+# 2021-10-08
+# Via SMS
+0.0.0.0 ukredeliverydpd.com
+0.0.0.0 www.ukredeliverydpd.com
+0.0.0.0 ukredeliverydpd.com
+0.0.0.0 www.ukredeliverydpd.com
+0.0.0.0 redeliverys-depot.com
+0.0.0.0 www.redeliverys-depot.com
+0.0.0.0 dpd-mytracking.com
+0.0.0.0 www.dpd-mytracking.com
+0.0.0.0 fedex-delivery.com
+0.0.0.0 www.fedex-delivery.com
+0.0.0.0 rm-ukparcel24-06.com
+0.0.0.0 www.rm-ukparcel24-06.com
+0.0.0.0 royalmail.co.uk-signed.com
+0.0.0.0 www.royalmail.co.uk-signed.com
+0.0.0.0 co.uk-signed.com
+0.0.0.0 www.co.uk-signed.com
+0.0.0.0 uk-signed.com
+0.0.0.0 www.uk-signed.com
+0.0.0.0 dpd.delivery2b6j.com
+0.0.0.0 www.dpd.delivery2b6j.com
+0.0.0.0 delivery2b6j.com
+0.0.0.0 www.delivery2b6j.com
+####################################################################################################
