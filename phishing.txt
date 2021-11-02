@@ -433,3 +433,13 @@
 0.0.0.0 whitefoxboutique.com
 0.0.0.0 www.whitefoxboutique.com
 ####################################################################################################
+# 2021-11-1
+# From: utako@utagokoro.jp
+# Source: https://nhspass-gov.heteml.net/www.england.nhs.uk/digital.nhs.co.uk/website/online-application
+0.0.0.0 utagokoro.jp
+0.0.0.0 www.utagokoro.jp
+0.0.0.0 nhspass-gov.heteml.net
+0.0.0.0 www.nhspass-gov.heteml.net
+0.0.0.0 heteml.net
+0.0.0.0 www.heteml.net
+####################################################################################################
