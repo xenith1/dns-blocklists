@@ -443,3 +443,13 @@
 0.0.0.0 heteml.net
 0.0.0.0 www.heteml.net
 ####################################################################################################
+# 2021-11-08
+# From: acrosticsferoze.engineer@discographypro.com
+# Source: https://eu.discographypro.com/in/lrbze
+0.0.0.0 discographypro.com
+0.0.0.0 www.discographypro.com
+0.0.0.0 eu.discographypro.com
+0.0.0.0 www.eu.discographypro.com
+0.0.0.0 lrbze.com
+0.0.0.0 www.lrbze.com
+####################################################################################################
