@@ -453,3 +453,11 @@
 0.0.0.0 lrbze.com
 0.0.0.0 www.lrbze.com
 ####################################################################################################
+# 2021-11-08
+# From: lyndsey.corby@apogeecorp.com
+# Source: https://rb.gy/avjujn => https://smitmanvarphotography.com/wp-content/upgrade/index.php
+0.0.0.0 rb.gy
+0.0.0.0 www.rb.gy
+0.0.0.0 smitmanvarphotography.com
+0.0.0.0 www.smitmanvarphotography.com
+####################################################################################################
