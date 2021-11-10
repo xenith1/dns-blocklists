@@ -461,3 +461,11 @@
 0.0.0.0 smitmanvarphotography.com
 0.0.0.0 www.smitmanvarphotography.com
 ####################################################################################################
+# 2021-11-11
+# From: email@email.venetianlasvegas.com
+# Source: https://facelogic.jp/comman/redacted@xenith.co.uk
+0.0.0.0 venetianlasvegas.com
+0.0.0.0 www.venetianlasvegas.com
+0.0.0.0 facelogic.jp
+0.0.0.0 www.facelogic.jp
+####################################################################################################
