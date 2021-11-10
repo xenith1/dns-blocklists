@@ -468,4 +468,6 @@
 0.0.0.0 www.venetianlasvegas.com
 0.0.0.0 facelogic.jp
 0.0.0.0 www.facelogic.jp
+0.0.0.0 episcopalnevada.org
+0.0.0.0 www.episcopalnevada.org
 ####################################################################################################
