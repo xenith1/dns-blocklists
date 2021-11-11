@@ -471,3 +471,21 @@
 0.0.0.0 episcopalnevada.org
 0.0.0.0 www.episcopalnevada.org
 ####################################################################################################
+# 2021-11-11
+# From:dickshand@Marechalecapital.com
+# Source: https://rekooo3-verici.site.pro/ => https://iodized-wiry-traffic.glitch.me/fds.html => https://demo.360degreeinfo.net/a/next.php
+0.0.0.0 Marechalecapital.com
+0.0.0.0 www.Marechalecapital.com
+0.0.0.0 rekooo3-verici.site.pro
+0.0.0.0 www.rekooo3-verici.site.pro
+0.0.0.0 site.pro
+0.0.0.0 www.site.pro
+0.0.0.0 iodized-wiry-traffic.glitch.me
+0.0.0.0 www.iodized-wiry-traffic.glitch.me
+0.0.0.0 glitch.me
+0.0.0.0 www.glitch.me
+0.0.0.0 demo.360degreeinfo.net
+0.0.0.0 www.demo.360degreeinfo.net
+0.0.0.0 360degreeinfo.net
+0.0.0.0 www.360degreeinfo.net
+####################################################################################################
