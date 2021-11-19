@@ -489,3 +489,11 @@
 0.0.0.0 360degreeinfo.net
 0.0.0.0 www.360degreeinfo.net
 ####################################################################################################
+# 2021-11-15
+# From: promo@promotions.perfumania.com
+# Source: http://www.enquete.r-gds.fr/wp-admin/MANA/redacted@xenith.co.uk
+0.0.0.0 enquete.r-gds.fr
+0.0.0.0 www.enquete.r-gds.fr
+0.0.0.0 r-gds.fr
+0.0.0.0 www.r-gds.fr
+####################################################################################################
