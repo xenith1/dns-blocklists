@@ -497,3 +497,12 @@
 0.0.0.0 r-gds.fr
 0.0.0.0 www.r-gds.fr
 ####################################################################################################
+# 2021-11-29
+# User submission
+# From: info@guttmannahrens.com
+# Source: html attachment
+0.0.0.0 rpfhulzgxi.web.app
+0.0.0.0 www.rpfhulzgxi.web.app
+0.0.0.0 alexisapex.monster
+0.0.0.0 www.alexisapex.monster
+####################################################################################################
