@@ -506,3 +506,13 @@
 0.0.0.0 alexisapex.monster
 0.0.0.0 www.alexisapex.monster
 ####################################################################################################
+# 2021-11-29
+# From: KMasi@winnyc.org
+# Source: https://17459-2640-ap1.ninjasites.net/wireconfirmation => https://rusti.us/gs/p4r.php
+0.0.0.0 17459-2640-ap1.ninjasites.net
+0.0.0.0 www.17459-2640-ap1.ninjasites.net
+0.0.0.0 winnyc.org
+0.0.0.0 www.winnyc.org
+0.0.0.0 rusti.us
+0.0.0.0 www.rusti.us
+####################################################################################################
