@@ -530,3 +530,14 @@
 0.0.0.0 landing.omnisend.com
 0.0.0.0 www.landing.omnisend.com
 ####################################################################################################
+# 2021-12-09
+# User submission
+# From: Bill.Moran@duoplc.com
+# Source: https://billmoran.clickfunnels.com/webinar-registration1639051651592 => https://kennyandrade.ca/fre/
+0.0.0.0 billmoran.clickfunnels.com
+0.0.0.0 www.billmoran.clickfunnels.com
+0.0.0.0 clickfunnels.com
+0.0.0.0 www.clickfunnels.com
+0.0.0.0 kennyandrade.ca
+0.0.0.0 www.kennyandrade.ca
+####################################################################################################
