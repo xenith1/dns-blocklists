@@ -516,3 +516,17 @@
 0.0.0.0 rusti.us
 0.0.0.0 www.rusti.us
 ####################################################################################################
+# 2021-12-03
+# From: support@egawo.com
+# Source: 
+0.0.0.0 egawo.com
+0.0.0.0 www.egawo.com
+0.0.0.0 soundestlink.com
+0.0.0.0 www.soundestlink.com
+0.0.0.0 sya.soundestlink.com
+0.0.0.0 www.sya.soundestlink.com
+0.0.0.0 omnisend.com
+0.0.0.0 www.omnisend.com
+0.0.0.0 landing.omnisend.com
+0.0.0.0 www.landing.omnisend.com
+####################################################################################################
