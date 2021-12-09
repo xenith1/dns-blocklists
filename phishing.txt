@@ -518,7 +518,7 @@
 ####################################################################################################
 # 2021-12-03
 # From: support@egawo.com
-# Source: 
+# Source: https://sya.soundestlink.com/link/61a9d3dd393a15001b04779d/61a9d3dda0c0fd001cdead6e/0?signature=%25recipient.signature_link%25#prazeresdacasa.com.br/work/?rav=redacted@xenith.co.uk
 0.0.0.0 egawo.com
 0.0.0.0 www.egawo.com
 0.0.0.0 soundestlink.com
